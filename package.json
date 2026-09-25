@@ -1,7 +1,7 @@
 {
   "name": "@node-in-layers/youtube",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node In Layers Package for accessing Youtube.",
   "main": "index.js",
   "bin": {
